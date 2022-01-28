@@ -1,0 +1,25 @@
+{
+  "name": "git_test",
+  "version": "1.0.0",
+  "description": "This is Carbon's first git (Command line) project!",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarbonBond/git_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarbonBond/git_test/issues"
+  },
+  "homepage": "https://github.com/CarbonBond/git_test#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "jest": "^27.4.7"
+  }
+}
